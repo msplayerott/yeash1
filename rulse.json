@@ -1,0 +1,278 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": "auth.uid === 'I2U4FzoBqma2LzUvN6xIpOMjNUC2'",
+
+    "security_config": {
+      ".read": true,
+      ".write": false
+    },
+
+    "messages": {
+      ".read": true,
+      ".write": "auth != null"
+    },
+
+    "channel_stats": {
+      ".read": true,
+      ".write": true
+    },
+
+    "user_channel_interactions": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+
+    "custom_m3u_lists": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+
+    "user_bookmarks": {
+      "$uid": {
+        ".read": "auth != null",
+        ".write": "auth != null"
+      }
+    },
+
+    "users": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+
+    "user_profiles": {
+       ".read": "auth != null",
+       "$uid": {
+         ".write": "auth != null && auth.uid === $uid"
+       }
+    },
+      
+      "benami_profiles": {
+       ".read": "auth != null",
+       "$uid": {
+         ".write": "auth != null && auth.uid === $uid"
+       }
+    },
+
+    "private_messages": {
+      "$uid1": {
+        "$uid2": {
+          ".read": true,
+          ".write": "auth != null"
+        }
+      }
+    },
+
+    "presence": {
+      ".read": true,
+      ".write": true
+    },
+
+    "Boga_chusho": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+
+    "package_purchases": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+
+    "redeem_codes": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+
+    "Huga_mara": {
+      ".read": true,
+      ".write": true
+    },
+
+    "yeash_ads": {
+      ".read": true,
+      ".write": "auth != null"
+    },
+
+    "magi_koi": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+    
+    "tasks": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+    
+    "total_time": {
+      ".read": true,
+      ".write": true
+    },
+    
+    "cpm_rate": {
+      ".read": true,
+      ".write": false
+    },
+    
+    "sameroot": {
+      "$uid": {
+        "balance": {
+          ".read": "auth != null && auth.uid === $uid",
+          ".write": "auth != null && auth.uid === $uid"
+        }
+      }
+    },
+    
+    "coin_exchanges": {
+      "$uid": {
+        ".read": "auth != null && auth.uid == $uid",
+        ".write": "auth != null && auth.uid == $uid"
+      }
+    },
+    
+    "transfer_requests": {
+      ".read": "auth.uid != null",
+      ".write": "auth.uid != null",
+      "$recipientUid": {
+        ".read": "auth.uid === $recipientUid"
+      }
+    },
+    
+    "transactions": {
+      "$userId": {
+        ".read": "auth.uid === $userId",
+        ".write": "auth.uid === $userId"
+      }
+    },
+
+    "withdraw": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+      
+      "friend_requests": {
+      "$recipientId": {
+        // প্রাপক তার কাছে আসা রিকোয়েস্টগুলো দেখতে পারবে।
+        ".read": "auth != null && $recipientId === auth.uid",
+        "$senderId": {
+          // প্রেরক রিকোয়েস্ট পাঠাতে পারবে এবং প্রাপক সেই রিকোয়েস্ট গ্রহণ বা বাতিল করতে পারবে।
+          ".write": "auth != null && ($senderId === auth.uid || $recipientId === auth.uid)"
+        }
+      }
+    },
+      
+      "friends": {
+      "$uid": {
+        ".read": "auth != null && $uid === auth.uid",
+        // ব্যবহারকারী নিজের ফ্রেন্ড লিস্টে লিখতে পারবে (১),
+        // অথবা রিকোয়েস্ট গ্রহণ করার সময় অন্য ব্যবহারকারীর লিস্টে নিজেকে যুক্ত করতে পারবে (২),
+        // অথবা আনফ্রেন্ড করার সময় অন্য ব্যবহারকারীর লিস্ট থেকে নিজেকে মুছে ফেলতে পারবে (৩)।
+        ".write": "(auth != null && $uid === auth.uid) || (auth != null && root.child('friend_requests').child(auth.uid).child($uid).exists()) || (auth != null && data.child(auth.uid).exists() && !newData.child(auth.uid).exists())"
+      }
+    },
+      
+      "reels_tube": {
+      ".read": true,
+      "$uploaderUid": {
+        // Allow user to write to their own node
+        ".write": "auth != null && auth.uid === $uploaderUid",
+        "$reelKey": {
+          ".validate": "!data.exists() ? newData.hasChildren(['url', 'timestamp', 'views', 'likes', 'shares']) : true",
+          "views": {
+            ".write": true,
+            ".validate": "newData.isNumber()"
+          },
+          "shares": {
+            ".write": true,
+            ".validate": "newData.isNumber()"
+          },
+          "likes": {
+            ".write": "auth != null",
+            ".validate": "newData.isNumber()"
+          },
+          "url": {
+            ".write": "auth != null && !data.exists()"
+          },
+          "timestamp": {
+            ".write": "auth != null && !data.exists()"
+          }
+        }
+      }
+    },
+      
+    "like_reels": {
+      ".read": "auth != null",
+      "$reelId": {
+        "$uid": {
+          ".write": "auth != null"
+        }
+      }
+    },
+    
+      "comments": {
+      ".read": "auth != null",
+      ".write": "auth != null && auth.token.provider_id !== 'anonymous'"
+    },
+      
+    "followers": {
+      ".read": "auth != null",
+      "$userId": {
+        // একজন ব্যবহারকারী শুধুমাত্র অন্যের ফলোয়ার তালিকায় নিজের আইডি যোগ বা মুছতে পারবে
+        // Here, we update or remove data under the key of the authenticated user.
+        ".write": "auth != null",
+        "$followerId": {
+           ".write": "$followerId === auth.uid",
+           ".validate": "newData.isBoolean()"
+        }
+      }
+    },
+    "following": {
+      "$userId": {
+        // একজন ব্যবহারকারী শুধুমাত্র নিজের ফলোয়িং তালিকা পরিবর্তন করতে বা দেখতে পারবে
+        ".read": "auth != null && $userId === auth.uid",
+        ".write": "auth != null && $userId === auth.uid"
+      }
+    },
+      
+      "intro_reel": {
+      ".read": true,
+      ".write": false
+    },
+      
+      "music_bot": {
+      // যেকোনো লগইন করা ব্যবহারকারী গানের তালিকাটি পড়তে পারবে।
+      ".read": "auth != null",
+      // কোনো ব্যবহারকারী অ্যাপ থেকে গানের তালিকা পরিবর্তন করতে পারবে না।
+      ".write": false
+    },
+
+    "voice_club": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "voice_club_chat": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      ".indexOn": ["timestamp"]
+    },
+    "voice_club_events": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    }
+  }
+}
