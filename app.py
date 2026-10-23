@@ -163,3 +163,6 @@ def fetch_emby_series(parent_id, category_name, save_filename):
 
 if __name__ == "__main__":
     fetch_emby_series("459899", "Hindi", "series_Hindi.json")
+    fetch_emby_series("313375", "Korean", "series_Korean.json")
+    fetch_emby_series("233902", "Hollywood", "series_Hollywood.json")
+    fetch_emby_series("276418", "Bangla", "series_Bnagla.json")
