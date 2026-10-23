@@ -1,0 +1,468 @@
+[
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
+      "Family",
+      "Drama",
+      "Comedy"
+    ],
+    "imdbRating": 10.0,
+    "imdbVotes": 153503,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2018",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277669/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "174m",
+            "episode_title": "E1 ∙ Pilot, ২, ৩, ৪, ৫, ৬, ৭, ৮",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277669/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277669/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277673/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "178m",
+            "episode_title": "E9 ∙ Episode 9, Episode 10, Episode 11, Episode 12, Episode 13, Episode 14, Episode 15, Episode 16",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277673/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277673/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277668/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "183m",
+            "episode_title": "E17 ∙ Episode 17, Episode 18, Episode 19, Episode 20, Episode 21, Episode 22, Episode 23, Episode 24",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277668/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277668/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277670/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "171m",
+            "episode_title": "E25 ∙ Episode 25, Episode 26, Episode 27, Episode 28, Episode 29, Episode 30, Episode 31, Episode 32",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277670/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277670/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277667/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "170m",
+            "episode_title": "E33 ∙ Episode 33, Episode 34, Episode 35, Episode 36, Episode 37, Episode 38, Episode 39, Episode 40",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277667/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277667/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277150/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "169m",
+            "episode_title": "E41 ∙ Episode 41, Episode 42, Episode 43, Episode 44, Episode 45, Episode 46, Episode 47, Episode 33",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277150/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277150/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277153/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "166m",
+            "episode_title": "E49 ∙ Episode 49, Episode 50, Episode 51, Episode 52, Episode 53, Episode 54, Episode 55, Episode 56",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277153/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277153/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277151/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "168m",
+            "episode_title": "E57 ∙ Episode 57, Episode 58, Episode 59, Episode 60, Episode 61, Episode 62, Episode 63, Episode 64",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277151/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277151/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277152/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "170m",
+            "episode_title": "E65 ∙ Episode 65, Episode 66, Episode 67, Episode 68, Episode 69, Episode 70, Episode 71, Episode 72",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277152/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277152/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277666/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "164m",
+            "episode_title": "E73 ∙ Episode 73, Episode 74, Episode 75, Episode 76, Episode 77, Episode 78, Episode 79, Episode 80",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277666/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277666/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277445/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "164m",
+            "episode_title": "E81 ∙ Episode 81, Episode 82, Episode 83, Episode 84, Episode 85, Episode 86, Episode 87, Episode 88",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277445/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277445/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277149/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "169m",
+            "episode_title": "E89 ∙ Episode 89, Episode 90, Episode 91, Episode 92, Episode 93, Episode 94, Episode 95, Episode 96",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/277149/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277149/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276859/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "81m",
+            "episode_title": "E97 ∙ Episode 97, Episode 98, Episode 99, Episode 100",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/276859/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276859/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276596/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "95m",
+            "episode_title": "E101 ∙ Episode 101, Episode 102, Episode 103, Episode 104",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/276596/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276596/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276599/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "168m",
+            "episode_title": "E105 ∙ Episode 105, Episode 106, Episode 107, Episode 108, Episode 109, Episode 110, Episode 111, Episode 112",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/276599/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276599/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276598/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "78m",
+            "episode_title": "E113 ∙ Episode 113, Episode 114, Episode 115, Episode 116",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/276598/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276598/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276597/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "87m",
+            "episode_title": "E117 ∙ Episode 117, Episode 118, Episode 119, Episode 120",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/276597/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276597/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465119/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "22m",
+            "episode_title": "E121 ∙ Bachelor Point -E121 AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/465119/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465119/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465121/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "20m",
+            "episode_title": "E122 ∙ Bachelor Point -E122 AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/465121/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465121/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465120/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "21m",
+            "episode_title": "E123 ∙ Bachelor Point -E123 AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/465120/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465120/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465123/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "20m",
+            "episode_title": "E124 ∙ Bachelor Point -E124 AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/465123/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465123/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465129/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "23m",
+            "episode_title": "E125 ∙ Bachelor Point -E125 AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/465129/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465129/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465128/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "22m",
+            "episode_title": "E126 ∙ Bachelor Point -E126 AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/465128/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465128/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465131/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "21m",
+            "episode_title": "E127 ∙ Bachelor Point -E127 AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/465131/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465131/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465130/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "22m",
+            "episode_title": "E128 ∙ Bachelor Point -E128 AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/465130/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465130/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          }
+        ],
+        "season_title": "season 5"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "The five bachelors named Kabila, Arefin, Shuvo, Nehal and Habu coming from different states had absolutely no idea that staying together under a roof will change their life.",
+    "title": "Bachelor Point (2018)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
+      "Drama"
+    ],
+    "imdbRating": 0.0,
+    "imdbVotes": 0,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/277671/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2026",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/278345/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "418m",
+            "episode_title": "E1 ∙ The Revolutionaries - Dual Audio [ ORG-Hindi] Amazon WEB-Rip",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/278345/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/278345/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Brave young Indian freedom fighters take up armed resistance to overthrow British colonial rule, sacrificing everything for their nation's freedom.",
+    "title": "Revolutionaries: The Other Story of How India Won Its Freedom (2026)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
+      "Drama",
+      "Comedy",
+      "Mystery"
+    ],
+    "imdbRating": 7.6,
+    "imdbVotes": 117419,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2012",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/462008/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "244m",
+            "episode_title": "E1 ∙ Syndicate (2022) Chorki Web Series",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/462008/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/462008/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Five members of a betting syndicate win the lottery. Each series follows a different syndicate. In the first series, it is set in a Leeds supermarket, in the second, a public hospital in Bradford, and the third, a crumbly stately home near Scarborough.",
+    "title": "The Syndicate (2012)",
+    "triler": ""
+  }
+]
