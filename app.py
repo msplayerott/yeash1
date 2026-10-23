@@ -11,7 +11,7 @@ EMBY_CONFIG = {
     "server": "https://play.roarzone.net",
     "username": "roarzone_guest",
     "password": "",
-    "deviceId": "1e58531d-f79d-420e-8d1f-275900e30433"
+    "deviceId": "a4b4c34c-ac21-498b-8b1b-1d2b8f822dbb"
 }
 
 def clean_title(name):
@@ -162,4 +162,4 @@ def fetch_emby_series(parent_id, category_name, save_filename):
         print(f"Hadisoana ho an'ny {category_name}: {e}")
 
 if __name__ == "__main__":
-    fetch_emby_series("89535", "Bengali", "series_bengali.json")
+    fetch_emby_series("459899", "Hindi", "series_Hindi.json")
