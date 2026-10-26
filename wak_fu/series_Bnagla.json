@@ -8,7 +8,7 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 153863,
+    "imdbVotes": 153914,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "premium": false,
@@ -425,12 +425,166 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Drama"
+    ],
+    "imdbRating": 5.3,
+    "imdbVotes": 82253,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2022",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466627/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "27m",
+            "episode_title": "E1 ∙ Nostalgia",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466627/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466627/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466632/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "24m",
+            "episode_title": "E2 ∙ Hallucination",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466632/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466632/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466633/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "20m",
+            "episode_title": "E3 ∙ Reunion",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466633/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466633/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466630/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "20m",
+            "episode_title": "E4 ∙ Passion",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466630/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466630/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466635/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "24m",
+            "episode_title": "E5 ∙ Deceit",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466635/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466635/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466634/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "19m",
+            "episode_title": "E6 ∙ Compassion",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466634/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466634/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466631/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "18m",
+            "episode_title": "E7 ∙ Disappearance",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466631/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466631/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466628/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "23m",
+            "episode_title": "E8 ∙ Confusion",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466628/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466628/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466629/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "17m",
+            "episode_title": "E9 ∙ Incomplete",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/466629/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466629/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Srikanto and Rajlokkhi's sensual yet sporadic love transcends space and time. At a time of heartbreaking separation between the two, Abhaya enters Srikanto's life even as his passionate fascination with Rajlokkhi strives for closure. Srikanto is the musical retelling of Sarat Chandra Chattopadhyay's eponymous novel and presents a modern take on the relationship of Srikanto-Rajlokkhi.",
+    "title": "Srikanto (2022)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Drama",
       "Comedy",
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116473,
+    "imdbVotes": 116340,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "premium": false,
