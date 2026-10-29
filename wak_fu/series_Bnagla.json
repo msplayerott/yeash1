@@ -8,7 +8,7 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 153260,
+    "imdbVotes": 153505,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "premium": false,
@@ -383,6 +383,118 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Comedy"
+    ],
+    "imdbRating": 5.5,
+    "imdbVotes": 84879,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2023",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467490/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "24m",
+            "episode_title": "E1 ∙ INTERNSHEEP EPISODE 01",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/467490/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467490/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467491/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "21m",
+            "episode_title": "E2 ∙ INTERNSHEEP EPISODE 02",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/467491/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467491/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467492/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "18m",
+            "episode_title": "E3 ∙ INTERNSHEEP EPISODE 03",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/467492/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467492/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467494/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "29m",
+            "episode_title": "E4 ∙ INTERNSHEEP EPISODE 04",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/467494/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467494/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467495/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "32m",
+            "episode_title": "E5 ∙ INTERNSHEEP EPISODE 05",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/467495/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467495/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467493/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "duration": "21m",
+            "episode_title": "E6 ∙ INTERNSHEEP EPISODE 06",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/467493/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467493/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Shuvro, a fresh graduate, joins AgenZ, as an intern, deeming it as the last phase of his race to success. Little does he know, his journey will be full of chaos, surrounded by a myriad of characters who never fail to make every day an adventure. The craziness that lies within the not-so-black-and-white world of a marketing agency, makes him question his life, his relationships, and his existence.",
+    "title": "Internsheep (2023)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Drama"
     ],
     "imdbRating": 0.0,
@@ -428,7 +540,7 @@
       "Drama"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82617,
+    "imdbVotes": 81993,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "premium": false,
@@ -584,7 +696,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116690,
+    "imdbVotes": 116888,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "premium": false,
