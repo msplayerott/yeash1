@@ -8,9 +8,9 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 153326,
+    "imdbVotes": 153713,
     "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
     "quality": "HD",
     "releaseDate": "2018",
@@ -20,7 +20,7 @@
         "episodes": [
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277669/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277669/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "174m",
             "episode_title": "E1 ∙ Pilot, ২, ৩, ৪, ৫, ৬, ৭, ৮",
             "headers": {
@@ -28,13 +28,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277669/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277669/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277669/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277669/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277673/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277673/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "178m",
             "episode_title": "E9 ∙ Episode 9, Episode 10, Episode 11, Episode 12, Episode 13, Episode 14, Episode 15, Episode 16",
             "headers": {
@@ -42,13 +42,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277673/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277673/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277673/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277673/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277668/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277668/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "183m",
             "episode_title": "E17 ∙ Episode 17, Episode 18, Episode 19, Episode 20, Episode 21, Episode 22, Episode 23, Episode 24",
             "headers": {
@@ -56,13 +56,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277668/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277668/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277668/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277668/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277670/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277670/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "171m",
             "episode_title": "E25 ∙ Episode 25, Episode 26, Episode 27, Episode 28, Episode 29, Episode 30, Episode 31, Episode 32",
             "headers": {
@@ -70,13 +70,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277670/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277670/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277670/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277670/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277667/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277667/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "170m",
             "episode_title": "E33 ∙ Episode 33, Episode 34, Episode 35, Episode 36, Episode 37, Episode 38, Episode 39, Episode 40",
             "headers": {
@@ -84,13 +84,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277667/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277667/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277667/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277667/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277150/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277150/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "169m",
             "episode_title": "E41 ∙ Episode 41, Episode 42, Episode 43, Episode 44, Episode 45, Episode 46, Episode 47, Episode 33",
             "headers": {
@@ -98,13 +98,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277150/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277150/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277150/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277150/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277153/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277153/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "166m",
             "episode_title": "E49 ∙ Episode 49, Episode 50, Episode 51, Episode 52, Episode 53, Episode 54, Episode 55, Episode 56",
             "headers": {
@@ -112,13 +112,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277153/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277153/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277153/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277153/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277151/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277151/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "168m",
             "episode_title": "E57 ∙ Episode 57, Episode 58, Episode 59, Episode 60, Episode 61, Episode 62, Episode 63, Episode 64",
             "headers": {
@@ -126,13 +126,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277151/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277151/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277151/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277151/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277152/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277152/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "170m",
             "episode_title": "E65 ∙ Episode 65, Episode 66, Episode 67, Episode 68, Episode 69, Episode 70, Episode 71, Episode 72",
             "headers": {
@@ -140,13 +140,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277152/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277152/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277152/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277152/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277666/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277666/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "164m",
             "episode_title": "E73 ∙ Episode 73, Episode 74, Episode 75, Episode 76, Episode 77, Episode 78, Episode 79, Episode 80",
             "headers": {
@@ -154,13 +154,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277666/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277666/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277666/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277666/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277445/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277445/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "164m",
             "episode_title": "E81 ∙ Episode 81, Episode 82, Episode 83, Episode 84, Episode 85, Episode 86, Episode 87, Episode 88",
             "headers": {
@@ -168,13 +168,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277445/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277445/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277445/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277445/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/277149/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/277149/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "169m",
             "episode_title": "E89 ∙ Episode 89, Episode 90, Episode 91, Episode 92, Episode 93, Episode 94, Episode 95, Episode 96",
             "headers": {
@@ -182,13 +182,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/277149/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/277149/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/277149/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/277149/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/276859/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276859/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "81m",
             "episode_title": "E97 ∙ Episode 97, Episode 98, Episode 99, Episode 100",
             "headers": {
@@ -196,13 +196,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/276859/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/276859/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/276859/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276859/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/276596/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276596/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "95m",
             "episode_title": "E101 ∙ Episode 101, Episode 102, Episode 103, Episode 104",
             "headers": {
@@ -210,13 +210,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/276596/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/276596/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/276596/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276596/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/276599/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276599/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "168m",
             "episode_title": "E105 ∙ Episode 105, Episode 106, Episode 107, Episode 108, Episode 109, Episode 110, Episode 111, Episode 112",
             "headers": {
@@ -224,13 +224,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/276599/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/276599/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/276599/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276599/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/276598/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276598/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "78m",
             "episode_title": "E113 ∙ Episode 113, Episode 114, Episode 115, Episode 116",
             "headers": {
@@ -238,13 +238,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/276598/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/276598/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/276598/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276598/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/276597/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/276597/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "87m",
             "episode_title": "E117 ∙ Episode 117, Episode 118, Episode 119, Episode 120",
             "headers": {
@@ -252,13 +252,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/276597/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/276597/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/276597/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/276597/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/465119/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465119/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "22m",
             "episode_title": "E121 ∙ Bachelor Point -E121 AAC h264",
             "headers": {
@@ -266,13 +266,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/465119/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/465119/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/465119/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465119/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/465121/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465121/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "20m",
             "episode_title": "E122 ∙ Bachelor Point -E122 AAC h264",
             "headers": {
@@ -280,13 +280,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/465121/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/465121/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/465121/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465121/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/465120/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465120/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "21m",
             "episode_title": "E123 ∙ Bachelor Point -E123 AAC h264",
             "headers": {
@@ -294,13 +294,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/465120/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/465120/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/465120/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465120/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/465123/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465123/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "20m",
             "episode_title": "E124 ∙ Bachelor Point -E124 AAC h264",
             "headers": {
@@ -308,13 +308,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/465123/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/465123/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/465123/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465123/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/465129/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465129/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "23m",
             "episode_title": "E125 ∙ Bachelor Point -E125 AAC h264",
             "headers": {
@@ -322,13 +322,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/465129/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/465129/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/465129/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465129/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/465128/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465128/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "22m",
             "episode_title": "E126 ∙ Bachelor Point -E126 AAC h264",
             "headers": {
@@ -336,13 +336,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/465128/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/465128/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/465128/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465128/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/465131/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465131/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "21m",
             "episode_title": "E127 ∙ Bachelor Point -E127 AAC h264",
             "headers": {
@@ -350,13 +350,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/465131/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/465131/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/465131/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465131/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/465130/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/465130/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "22m",
             "episode_title": "E128 ∙ Bachelor Point -E128 AAC h264",
             "headers": {
@@ -364,8 +364,8 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/465130/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/465130/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/465130/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/465130/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           }
         ],
@@ -386,9 +386,9 @@
       "Comedy"
     ],
     "imdbRating": 5.5,
-    "imdbVotes": 85277,
+    "imdbVotes": 84549,
     "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
     "quality": "HD",
     "releaseDate": "2023",
@@ -398,7 +398,7 @@
         "episodes": [
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/467490/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467490/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "24m",
             "episode_title": "E1 ∙ INTERNSHEEP EPISODE 01",
             "headers": {
@@ -406,13 +406,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/467490/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/467490/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/467490/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467490/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/467491/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467491/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "21m",
             "episode_title": "E2 ∙ INTERNSHEEP EPISODE 02",
             "headers": {
@@ -420,13 +420,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/467491/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/467491/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/467491/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467491/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/467492/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467492/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "18m",
             "episode_title": "E3 ∙ INTERNSHEEP EPISODE 03",
             "headers": {
@@ -434,13 +434,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/467492/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/467492/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/467492/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467492/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/467494/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467494/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "29m",
             "episode_title": "E4 ∙ INTERNSHEEP EPISODE 04",
             "headers": {
@@ -448,13 +448,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/467494/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/467494/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/467494/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467494/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/467495/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467495/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "32m",
             "episode_title": "E5 ∙ INTERNSHEEP EPISODE 05",
             "headers": {
@@ -462,13 +462,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/467495/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/467495/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/467495/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467495/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/467493/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/467493/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "21m",
             "episode_title": "E6 ∙ INTERNSHEEP EPISODE 06",
             "headers": {
@@ -476,8 +476,8 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/467493/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/467493/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/467493/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/467493/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           }
         ],
@@ -500,7 +500,7 @@
     "imdbRating": 0.0,
     "imdbVotes": 0,
     "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/277671/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "posterUrl": "https://play.roarzone.net/emby/Items/277671/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
     "quality": "HD",
     "releaseDate": "2026",
@@ -510,7 +510,7 @@
         "episodes": [
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/278345/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/278345/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "418m",
             "episode_title": "E1 ∙ The Revolutionaries - Dual Audio [ ORG-Hindi] Amazon WEB-Rip",
             "headers": {
@@ -518,8 +518,8 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/278345/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/278345/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/278345/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/278345/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           }
         ],
@@ -540,9 +540,9 @@
       "Drama"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82100,
+    "imdbVotes": 81558,
     "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
     "quality": "HD",
     "releaseDate": "2022",
@@ -552,7 +552,7 @@
         "episodes": [
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466627/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466627/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "27m",
             "episode_title": "E1 ∙ Nostalgia",
             "headers": {
@@ -560,13 +560,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466627/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466627/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466627/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466627/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466632/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466632/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "24m",
             "episode_title": "E2 ∙ Hallucination",
             "headers": {
@@ -574,13 +574,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466632/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466632/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466632/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466632/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466633/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466633/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "20m",
             "episode_title": "E3 ∙ Reunion",
             "headers": {
@@ -588,13 +588,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466633/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466633/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466633/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466633/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466630/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466630/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "20m",
             "episode_title": "E4 ∙ Passion",
             "headers": {
@@ -602,13 +602,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466630/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466630/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466630/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466630/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466635/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466635/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "24m",
             "episode_title": "E5 ∙ Deceit",
             "headers": {
@@ -616,13 +616,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466635/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466635/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466635/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466635/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466634/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466634/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "19m",
             "episode_title": "E6 ∙ Compassion",
             "headers": {
@@ -630,13 +630,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466634/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466634/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466634/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466634/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466631/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466631/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "18m",
             "episode_title": "E7 ∙ Disappearance",
             "headers": {
@@ -644,13 +644,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466631/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466631/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466631/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466631/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466628/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466628/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "23m",
             "episode_title": "E8 ∙ Confusion",
             "headers": {
@@ -658,13 +658,13 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466628/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466628/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466628/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466628/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           },
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/466629/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/466629/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "17m",
             "episode_title": "E9 ∙ Incomplete",
             "headers": {
@@ -672,8 +672,8 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/466629/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/466629/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/466629/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/466629/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           }
         ],
@@ -696,9 +696,9 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116565,
+    "imdbVotes": 117540,
     "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
     "quality": "HD",
     "releaseDate": "2012",
@@ -708,7 +708,7 @@
         "episodes": [
           {
             "downStatus": "off",
-            "downUrl": "https://play.roarzone.net/emby/Videos/462008/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "downUrl": "https://play.roarzone.net/emby/Videos/462008/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "duration": "244m",
             "episode_title": "E1 ∙ Syndicate (2022) Chorki Web Series",
             "headers": {
@@ -716,8 +716,8 @@
               "Origin": "",
               "User-Agent": ""
             },
-            "posterUrl": "https://play.roarzone.net/emby/Items/462008/Images/Primary?api_key=61df69e5210d44b68b2ba88311293f00",
-            "streamUrl": "https://play.roarzone.net/emby/Videos/462008/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+            "posterUrl": "https://play.roarzone.net/emby/Items/462008/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/462008/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
             "view": 0
           }
         ],
