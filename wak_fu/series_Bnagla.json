@@ -8,7 +8,7 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 154149,
+    "imdbVotes": 153687,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -383,10 +383,52 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Documentary"
+    ],
+    "imdbRating": 5.3,
+    "imdbVotes": 82444,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/470586/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2023",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/470589/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "191m",
+            "episode_title": "E1 ∙ The Silence Binge Bangla AAC h264",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/470589/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/470589/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Follow The Science provides a groundbreaking platform for experts to share their opinions and experiences about the pandemic. The series will delve into the science behind the government's response, as well as exploring the economic and social impacts of the lockdowns.\r\n\r\nFollow The Science is a grassroots effort and has come to life by solely crowdfunding. Interested donors can donate here to continue supporting the rest of the series.",
+    "title": "Follow the Science (2023)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Comedy"
     ],
     "imdbRating": 5.5,
-    "imdbVotes": 84300,
+    "imdbVotes": 84970,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -540,7 +582,7 @@
       "Drama"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82672,
+    "imdbVotes": 81490,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -696,7 +738,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117007,
+    "imdbVotes": 116300,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
