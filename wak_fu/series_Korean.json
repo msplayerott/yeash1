@@ -7,7 +7,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118918,
+    "imdbVotes": 118284,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370629/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -261,7 +261,7 @@
       "Mystery"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 110349,
+    "imdbVotes": 110682,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370700/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -403,7 +403,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 125153,
+    "imdbVotes": 124877,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370819/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -652,13 +652,183 @@
     "category": "Korean",
     "director": "N/A",
     "genre": [
+      "Action",
+      "Thriller",
+      "Romance"
+    ],
+    "imdbRating": 8.7,
+    "imdbVotes": 134099,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/471409/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2026",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471411/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "74m",
+            "episode_title": "E1 ∙ Episode 1",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471411/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471411/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471426/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "69m",
+            "episode_title": "E2 ∙ Episode 2",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471426/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471426/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471425/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "65m",
+            "episode_title": "E3 ∙ Episode 3",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471425/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471425/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471430/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "68m",
+            "episode_title": "E4 ∙ Episode 4",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471430/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471430/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471427/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "73m",
+            "episode_title": "E5 ∙ Episode 5",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471427/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471427/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471429/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "65m",
+            "episode_title": "E6 ∙ Episode 6",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471429/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471429/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471431/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "64m",
+            "episode_title": "E7 ∙ Episode 7",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471431/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471431/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471432/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "71m",
+            "episode_title": "E8 ∙ Episode 8",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471432/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471432/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471433/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "61m",
+            "episode_title": "E9 ∙ Episode 9",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471433/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471433/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/471428/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "62m",
+            "episode_title": "E10 ∙ Episode 10",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/471428/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/471428/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "title": "Days of Deception (2026)",
+    "triler": ""
+  },
+  {
+    "category": "Korean",
+    "director": "N/A",
+    "genre": [
       "Fantasy",
       "Crime",
       "Thriller",
       "Mystery"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119604,
+    "imdbVotes": 120568,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370742/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -854,7 +1024,7 @@
       "Reality"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122436,
+    "imdbVotes": 123464,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370647/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1107,7 +1277,7 @@
       "Romance"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 125788,
+    "imdbVotes": 125536,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370590/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1507,7 +1677,7 @@
       "Mystery"
     ],
     "imdbRating": 6.7,
-    "imdbVotes": 103115,
+    "imdbVotes": 103417,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370776/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1625,7 +1795,7 @@
       "History"
     ],
     "imdbRating": 8.7,
-    "imdbVotes": 134380,
+    "imdbVotes": 133422,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370627/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -2081,7 +2251,7 @@
       "Podcast"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120063,
+    "imdbVotes": 120501,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370699/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -2334,7 +2504,7 @@
       "Travel"
     ],
     "imdbRating": 4.6,
-    "imdbVotes": 70818,
+    "imdbVotes": 71180,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370697/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -2534,7 +2704,7 @@
       "Thriller"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117745,
+    "imdbVotes": 117706,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370695/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -2731,7 +2901,7 @@
       "News"
     ],
     "imdbRating": 6.5,
-    "imdbVotes": 100113,
+    "imdbVotes": 100831,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370897/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -2874,7 +3044,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118948,
+    "imdbVotes": 118238,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370855/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -3352,7 +3522,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 117883,
+    "imdbVotes": 118131,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370836/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -3635,7 +3805,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112873,
+    "imdbVotes": 111739,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370737/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -3777,7 +3947,7 @@
       "Mystery"
     ],
     "imdbRating": 8.3,
-    "imdbVotes": 127941,
+    "imdbVotes": 127478,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370891/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -3918,7 +4088,7 @@
       "Podcast"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 119296,
+    "imdbVotes": 117919,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370712/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -4073,7 +4243,7 @@
       "Action"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 107954,
+    "imdbVotes": 107842,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370777/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -4326,7 +4496,7 @@
       "Romance"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 125872,
+    "imdbVotes": 126384,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370732/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -4581,7 +4751,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112399,
+    "imdbVotes": 112579,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370685/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -4889,7 +5059,7 @@
       "Indie"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 114955,
+    "imdbVotes": 115234,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370766/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -5145,7 +5315,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114339,
+    "imdbVotes": 114565,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370733/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -5400,7 +5570,7 @@
       "Mystery"
     ],
     "imdbRating": 6.4,
-    "imdbVotes": 98703,
+    "imdbVotes": 98231,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370678/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -5512,7 +5682,7 @@
       "Drama"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119381,
+    "imdbVotes": 119569,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370734/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -5712,7 +5882,7 @@
       "Mystery"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120617,
+    "imdbVotes": 119819,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370596/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -6226,7 +6396,7 @@
       "Mystery"
     ],
     "imdbRating": 6.4,
-    "imdbVotes": 98833,
+    "imdbVotes": 98054,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370757/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -6341,7 +6511,7 @@
       "Mystery"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 121979,
+    "imdbVotes": 121501,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370826/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -6595,7 +6765,7 @@
       "History"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112471,
+    "imdbVotes": 112021,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370609/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -6849,7 +7019,7 @@
       "Drama"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109315,
+    "imdbVotes": 108887,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370616/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -7020,7 +7190,7 @@
       "Thriller"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 125313,
+    "imdbVotes": 125134,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370799/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -7266,7 +7436,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 113189,
+    "imdbVotes": 112985,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370716/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -7434,7 +7604,7 @@
       "Reality"
     ],
     "imdbRating": 9.2,
-    "imdbVotes": 141041,
+    "imdbVotes": 141570,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370750/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -7686,7 +7856,7 @@
       "Romance"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 110383,
+    "imdbVotes": 110479,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370859/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -8091,7 +8261,7 @@
       "Romance"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123645,
+    "imdbVotes": 122678,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370861/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -8290,7 +8460,7 @@
       "Romance"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 128519,
+    "imdbVotes": 128798,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370894/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -8460,7 +8630,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120404,
+    "imdbVotes": 120473,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370782/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -8841,7 +9011,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117472,
+    "imdbVotes": 116839,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370692/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -9095,7 +9265,7 @@
       "Romance"
     ],
     "imdbRating": 4.9,
-    "imdbVotes": 75496,
+    "imdbVotes": 75643,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370806/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -9348,7 +9518,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124802,
+    "imdbVotes": 124760,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370816/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -9545,7 +9715,7 @@
       "Mystery"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 113558,
+    "imdbVotes": 114583,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370824/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -9826,7 +9996,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118290,
+    "imdbVotes": 118144,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370586/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -10081,7 +10251,7 @@
       "Romance"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 128779,
+    "imdbVotes": 128740,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370754/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -10280,7 +10450,7 @@
       "Action"
     ],
     "imdbRating": 6.5,
-    "imdbVotes": 100556,
+    "imdbVotes": 100484,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370722/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -10422,7 +10592,7 @@
       "Musical"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119380,
+    "imdbVotes": 120170,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370872/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -10622,7 +10792,7 @@
       "Mystery"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 113708,
+    "imdbVotes": 114222,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370676/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -10874,7 +11044,7 @@
       "Reality"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116611,
+    "imdbVotes": 116896,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370840/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -11127,7 +11297,7 @@
       "Documentary"
     ],
     "imdbRating": 3.5,
-    "imdbVotes": 55060,
+    "imdbVotes": 54877,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370705/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -11325,7 +11495,7 @@
       "Mystery"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 108520,
+    "imdbVotes": 108311,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370801/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -11579,7 +11749,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114177,
+    "imdbVotes": 113833,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370672/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -11778,7 +11948,7 @@
       "Mystery"
     ],
     "imdbRating": 5.1,
-    "imdbVotes": 78545,
+    "imdbVotes": 79158,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370834/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -11947,7 +12117,7 @@
       "Comedy"
     ],
     "imdbRating": 4.6,
-    "imdbVotes": 71144,
+    "imdbVotes": 70741,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370884/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -12453,7 +12623,7 @@
       "Mystery"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 119209,
+    "imdbVotes": 117915,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370589/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -12707,7 +12877,7 @@
       "Action"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118085,
+    "imdbVotes": 117827,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370828/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -12907,7 +13077,7 @@
       "Romance"
     ],
     "imdbRating": 8.7,
-    "imdbVotes": 134198,
+    "imdbVotes": 133660,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370591/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -13175,7 +13345,7 @@
       "Action"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 125513,
+    "imdbVotes": 125930,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370775/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -13376,7 +13546,7 @@
       "Drama"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 123990,
+    "imdbVotes": 124389,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370832/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -13574,7 +13744,7 @@
       "Romance"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122735,
+    "imdbVotes": 123819,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370847/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -13831,7 +14001,7 @@
       "Mystery"
     ],
     "imdbRating": 6.2,
-    "imdbVotes": 95461,
+    "imdbVotes": 95747,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370848/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -14030,7 +14200,7 @@
       "Mystery"
     ],
     "imdbRating": 8.7,
-    "imdbVotes": 133500,
+    "imdbVotes": 133988,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467788/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -14172,7 +14342,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112694,
+    "imdbVotes": 112002,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370882/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -14355,7 +14525,7 @@
       "Suspense"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 108946,
+    "imdbVotes": 108986,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370900/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -14610,7 +14780,7 @@
       "War"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 126526,
+    "imdbVotes": 125820,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370791/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -14864,7 +15034,7 @@
       "Romance"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116929,
+    "imdbVotes": 117353,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370656/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -15117,7 +15287,7 @@
       "Game Show"
     ],
     "imdbRating": 8.3,
-    "imdbVotes": 128141,
+    "imdbVotes": 128434,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370605/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -15489,7 +15659,7 @@
       "Anime"
     ],
     "imdbRating": 6.8,
-    "imdbVotes": 104319,
+    "imdbVotes": 104279,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370901/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -15743,7 +15913,7 @@
       "Romance"
     ],
     "imdbRating": 6.8,
-    "imdbVotes": 105410,
+    "imdbVotes": 104708,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370711/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -15943,7 +16113,7 @@
       "Mystery"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109480,
+    "imdbVotes": 109242,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370740/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -16422,7 +16592,7 @@
       "Mystery"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122625,
+    "imdbVotes": 123537,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370893/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -16676,7 +16846,7 @@
       "Thriller"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 110545,
+    "imdbVotes": 111330,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370724/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -16932,7 +17102,7 @@
       "Mystery"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115402,
+    "imdbVotes": 115840,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370795/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -17187,7 +17357,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 114941,
+    "imdbVotes": 116246,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370868/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -17497,7 +17667,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120645,
+    "imdbVotes": 120141,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370612/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -17750,7 +17920,7 @@
       "Romance"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 128631,
+    "imdbVotes": 128831,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370778/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -18531,7 +18701,7 @@
       "Romance"
     ],
     "imdbRating": 6.8,
-    "imdbVotes": 105325,
+    "imdbVotes": 104372,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370649/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -18701,7 +18871,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 113456,
+    "imdbVotes": 114394,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370853/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -18928,7 +19098,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114222,
+    "imdbVotes": 114499,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370738/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -19254,7 +19424,7 @@
       "History"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 128941,
+    "imdbVotes": 129110,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370674/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -19998,7 +20168,7 @@
       "Romance"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 97900,
+    "imdbVotes": 96896,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370765/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -20253,7 +20423,7 @@
       "Mystery"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 119185,
+    "imdbVotes": 118060,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370620/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -20506,7 +20676,7 @@
       "Crime"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115654,
+    "imdbVotes": 115114,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370881/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -20675,7 +20845,7 @@
       "Romance"
     ],
     "imdbRating": 8.5,
-    "imdbVotes": 130648,
+    "imdbVotes": 131180,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370846/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -20927,7 +21097,7 @@
       "Family"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118868,
+    "imdbVotes": 119149,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370787/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -21068,7 +21238,7 @@
       "Romance"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117418,
+    "imdbVotes": 116720,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370673/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -21321,7 +21491,7 @@
       "Thriller"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123074,
+    "imdbVotes": 123161,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370851/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -21433,7 +21603,7 @@
       "Documentary"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112409,
+    "imdbVotes": 111909,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370608/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -21687,7 +21857,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120164,
+    "imdbVotes": 120747,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370719/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -21997,7 +22167,7 @@
       "Action"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122831,
+    "imdbVotes": 122638,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370696/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -22481,7 +22651,7 @@
       "Romance"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122671,
+    "imdbVotes": 123340,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370759/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -22735,7 +22905,7 @@
       "Romance"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 108550,
+    "imdbVotes": 108448,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466317/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -22821,7 +22991,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112831,
+    "imdbVotes": 113134,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370622/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -23075,7 +23245,7 @@
       "Action"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 126216,
+    "imdbVotes": 125749,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370880/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -23446,7 +23616,7 @@
       "Romance"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 111106,
+    "imdbVotes": 110563,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370668/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -23702,7 +23872,7 @@
       "Mystery"
     ],
     "imdbRating": 8.5,
-    "imdbVotes": 130203,
+    "imdbVotes": 130725,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370717/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -23956,7 +24126,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109988,
+    "imdbVotes": 109432,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370718/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -24214,7 +24384,7 @@
       "Mystery"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 108288,
+    "imdbVotes": 108470,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370628/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -24691,7 +24861,7 @@
       "Crime"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 108848,
+    "imdbVotes": 108669,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370632/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -24831,7 +25001,7 @@
       "Comedy"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120385,
+    "imdbVotes": 119865,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370726/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -25030,7 +25200,7 @@
       "Romance"
     ],
     "imdbRating": 6.6,
-    "imdbVotes": 101376,
+    "imdbVotes": 101293,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370842/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -25243,7 +25413,7 @@
       "Romance"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 122306,
+    "imdbVotes": 121418,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370583/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -25496,7 +25666,7 @@
       "Suspense"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 126899,
+    "imdbVotes": 126886,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370831/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -25752,7 +25922,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124006,
+    "imdbVotes": 125299,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370811/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -25950,7 +26120,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118978,
+    "imdbVotes": 118358,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370877/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -26205,7 +26375,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115219,
+    "imdbVotes": 115076,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370762/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -26460,7 +26630,7 @@
       "Sport"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114687,
+    "imdbVotes": 113635,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370630/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -26715,7 +26885,7 @@
       "Thriller"
     ],
     "imdbRating": 4.4,
-    "imdbVotes": 68203,
+    "imdbVotes": 68417,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370703/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -26913,7 +27083,7 @@
       "Comedy"
     ],
     "imdbRating": 8.5,
-    "imdbVotes": 130833,
+    "imdbVotes": 130401,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370761/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -27210,7 +27380,7 @@
       "History"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114371,
+    "imdbVotes": 114560,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370633/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -27485,7 +27655,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 113285,
+    "imdbVotes": 114096,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370866/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -27681,7 +27851,7 @@
       "Drama"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116400,
+    "imdbVotes": 116399,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370875/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -27936,7 +28106,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 113457,
+    "imdbVotes": 113659,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370907/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -28135,7 +28305,7 @@
       "Romance"
     ],
     "imdbRating": 6.4,
-    "imdbVotes": 99436,
+    "imdbVotes": 99460,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370658/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -28333,7 +28503,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115160,
+    "imdbVotes": 114888,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370694/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -28646,7 +28816,7 @@
       "Mystery"
     ],
     "imdbRating": 6.6,
-    "imdbVotes": 102330,
+    "imdbVotes": 102106,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370864/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -28848,7 +29018,7 @@
       "Drama"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 105752,
+    "imdbVotes": 105825,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370869/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -29215,7 +29385,7 @@
       "Mystery"
     ],
     "imdbRating": 6.1,
-    "imdbVotes": 94447,
+    "imdbVotes": 94157,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370764/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -29343,7 +29513,7 @@
       "Thriller"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119606,
+    "imdbVotes": 119822,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370804/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -29484,7 +29654,7 @@
       "Romance"
     ],
     "imdbRating": 8.3,
-    "imdbVotes": 128408,
+    "imdbVotes": 127978,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370584/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -29736,7 +29906,7 @@
       "Talk Show"
     ],
     "imdbRating": 8.7,
-    "imdbVotes": 133523,
+    "imdbVotes": 133898,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370751/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -30108,7 +30278,7 @@
       "History"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123564,
+    "imdbVotes": 123511,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370800/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -30418,7 +30588,7 @@
       "Romance"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 108324,
+    "imdbVotes": 107925,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370874/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -30729,7 +30899,7 @@
       "Thriller"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 111729,
+    "imdbVotes": 112200,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370704/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -30870,7 +31040,7 @@
       "Drama"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122559,
+    "imdbVotes": 123441,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370682/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -31126,7 +31296,7 @@
       "Thriller"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123485,
+    "imdbVotes": 123205,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370812/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -31268,7 +31438,7 @@
       "Mystery"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122413,
+    "imdbVotes": 123234,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370862/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -31550,7 +31720,7 @@
       "Romance"
     ],
     "imdbRating": 8.5,
-    "imdbVotes": 130250,
+    "imdbVotes": 130597,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370636/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -31804,7 +31974,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124625,
+    "imdbVotes": 123921,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370707/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -32058,7 +32228,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118575,
+    "imdbVotes": 118188,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370748/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -32423,7 +32593,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115063,
+    "imdbVotes": 114943,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370784/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -32676,7 +32846,7 @@
       "Romance"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 126774,
+    "imdbVotes": 126806,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370611/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -32929,7 +33099,7 @@
       "Crime"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 122265,
+    "imdbVotes": 121935,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370604/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -33100,7 +33270,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118913,
+    "imdbVotes": 118773,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370580/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -33355,7 +33525,7 @@
       "Mystery"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 122100,
+    "imdbVotes": 121276,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370631/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -33607,7 +33777,7 @@
       "Comedy"
     ],
     "imdbRating": 4.0,
-    "imdbVotes": 62766,
+    "imdbVotes": 62530,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370708/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -33720,7 +33890,7 @@
       "Action"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117364,
+    "imdbVotes": 117134,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370701/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -33918,7 +34088,7 @@
       "Romance"
     ],
     "imdbRating": 8.3,
-    "imdbVotes": 126963,
+    "imdbVotes": 127733,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370625/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -34231,7 +34401,7 @@
       "Mystery"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109105,
+    "imdbVotes": 109246,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370783/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -34375,7 +34545,7 @@
       "Mystery"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 121973,
+    "imdbVotes": 121373,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370904/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -34572,7 +34742,7 @@
       "Romance"
     ],
     "imdbRating": 5.9,
-    "imdbVotes": 91653,
+    "imdbVotes": 90864,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370863/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -34827,7 +34997,7 @@
       "Mystery"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124562,
+    "imdbVotes": 124890,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370665/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -35081,7 +35251,7 @@
       "History"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122906,
+    "imdbVotes": 122549,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370728/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -35389,7 +35559,7 @@
       "Documentary"
     ],
     "imdbRating": 8.7,
-    "imdbVotes": 134359,
+    "imdbVotes": 133211,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/464210/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -35596,7 +35766,7 @@
       "Action"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112180,
+    "imdbVotes": 112685,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370744/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -35818,7 +35988,7 @@
       "History"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116411,
+    "imdbVotes": 117752,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370640/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -35935,7 +36105,7 @@
       "Romance"
     ],
     "imdbRating": 6.4,
-    "imdbVotes": 98577,
+    "imdbVotes": 98167,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370849/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -36132,7 +36302,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109114,
+    "imdbVotes": 109952,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370687/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -36889,7 +37059,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112540,
+    "imdbVotes": 111759,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370654/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -37143,7 +37313,7 @@
       "Thriller"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116962,
+    "imdbVotes": 117738,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370607/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -37397,7 +37567,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124518,
+    "imdbVotes": 124070,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370688/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -37707,7 +37877,7 @@
       "Suspense"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 111279,
+    "imdbVotes": 111651,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370843/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -38407,7 +38577,7 @@
       "Reality"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 96684,
+    "imdbVotes": 97944,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370774/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -38661,7 +38831,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119443,
+    "imdbVotes": 119339,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370600/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -38858,7 +39028,7 @@
       "Drama"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119438,
+    "imdbVotes": 120338,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370735/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -39002,7 +39172,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112182,
+    "imdbVotes": 112450,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370756/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -39255,7 +39425,7 @@
       "Mystery"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118171,
+    "imdbVotes": 118954,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370817/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -39452,7 +39622,7 @@
       "Comedy"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 97576,
+    "imdbVotes": 96928,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370845/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -39636,7 +39806,7 @@
       "Romance"
     ],
     "imdbRating": 6.5,
-    "imdbVotes": 100552,
+    "imdbVotes": 99925,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370721/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -39869,7 +40039,7 @@
       "Anime"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 97723,
+    "imdbVotes": 96770,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370887/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -40122,7 +40292,7 @@
       "Romance"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 106901,
+    "imdbVotes": 106610,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370745/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -40445,7 +40615,7 @@
       "Reality"
     ],
     "imdbRating": 6.2,
-    "imdbVotes": 95737,
+    "imdbVotes": 95953,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370838/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -40614,7 +40784,7 @@
       "Romance"
     ],
     "imdbRating": 6.5,
-    "imdbVotes": 100254,
+    "imdbVotes": 100305,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466283/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -40700,7 +40870,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120097,
+    "imdbVotes": 119357,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370825/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -40870,7 +41040,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109845,
+    "imdbVotes": 108813,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370747/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -41125,7 +41295,7 @@
       "Romance"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 97791,
+    "imdbVotes": 96875,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370903/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -41379,7 +41549,7 @@
       "Romance"
     ],
     "imdbRating": 8.5,
-    "imdbVotes": 130455,
+    "imdbVotes": 130719,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370883/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -41632,7 +41802,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 114938,
+    "imdbVotes": 115298,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370669/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -41899,7 +42069,7 @@
       "Romance"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 108065,
+    "imdbVotes": 107909,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370731/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -42152,7 +42322,7 @@
       "Romance"
     ],
     "imdbRating": 6.6,
-    "imdbVotes": 101255,
+    "imdbVotes": 101591,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370714/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -42406,7 +42576,7 @@
       "Thriller"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 125883,
+    "imdbVotes": 125931,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370814/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -42519,7 +42689,7 @@
       "Romance"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122959,
+    "imdbVotes": 122523,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466010/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -42592,7 +42762,7 @@
       "Thriller"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118161,
+    "imdbVotes": 119068,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370803/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -42790,7 +42960,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115843,
+    "imdbVotes": 115000,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370603/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -43048,7 +43218,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115289,
+    "imdbVotes": 115671,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370870/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -43246,7 +43416,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119870,
+    "imdbVotes": 120127,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370606/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -43501,7 +43671,7 @@
       "Thriller"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 113079,
+    "imdbVotes": 112321,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370865/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -43630,7 +43800,7 @@
       "Romance"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123599,
+    "imdbVotes": 122500,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370769/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -43995,7 +44165,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 113016,
+    "imdbVotes": 112973,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370899/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -44249,7 +44419,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115119,
+    "imdbVotes": 115587,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370844/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -44421,7 +44591,7 @@
       "Mystery"
     ],
     "imdbRating": 6.8,
-    "imdbVotes": 105460,
+    "imdbVotes": 104545,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370599/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -44676,7 +44846,7 @@
       "Thriller"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115646,
+    "imdbVotes": 115018,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370857/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -44803,7 +44973,7 @@
       "Action"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 119219,
+    "imdbVotes": 118087,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370837/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -45001,7 +45171,7 @@
       "Mystery"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 106922,
+    "imdbVotes": 106404,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370890/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -45254,7 +45424,7 @@
       "Thriller"
     ],
     "imdbRating": 6.6,
-    "imdbVotes": 101156,
+    "imdbVotes": 102140,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370655/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -45423,7 +45593,7 @@
       "Romance"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116337,
+    "imdbVotes": 116299,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370780/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -45789,7 +45959,7 @@
       "Thriller"
     ],
     "imdbRating": 5.9,
-    "imdbVotes": 91852,
+    "imdbVotes": 91621,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370760/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -45986,7 +46156,7 @@
       "Podcast"
     ],
     "imdbRating": 6.1,
-    "imdbVotes": 94064,
+    "imdbVotes": 94585,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370648/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -46101,7 +46271,7 @@
       "History"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 110897,
+    "imdbVotes": 111636,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370619/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -46355,7 +46525,7 @@
       "Romance"
     ],
     "imdbRating": 6.6,
-    "imdbVotes": 102543,
+    "imdbVotes": 101236,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370829/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -46607,7 +46777,7 @@
       "Drama"
     ],
     "imdbRating": 8.5,
-    "imdbVotes": 130642,
+    "imdbVotes": 130176,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370802/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -46778,7 +46948,7 @@
       "Mystery"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 129513,
+    "imdbVotes": 129010,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370637/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -47088,7 +47258,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124137,
+    "imdbVotes": 125153,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370615/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -47260,7 +47430,7 @@
       "History"
     ],
     "imdbRating": 8.6,
-    "imdbVotes": 132339,
+    "imdbVotes": 131866,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370723/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -47570,7 +47740,7 @@
       "Anime"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 122143,
+    "imdbVotes": 121838,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370856/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -47934,7 +48104,7 @@
       "Romance"
     ],
     "imdbRating": 8.9,
-    "imdbVotes": 136829,
+    "imdbVotes": 137562,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370670/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -48257,7 +48427,7 @@
       "Talk Show"
     ],
     "imdbRating": 6.4,
-    "imdbVotes": 98727,
+    "imdbVotes": 98160,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370638/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -48510,7 +48680,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 113956,
+    "imdbVotes": 113621,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370813/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -48770,7 +48940,7 @@
       "Romance"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116420,
+    "imdbVotes": 117356,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370727/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -49024,7 +49194,7 @@
       "Romance"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117563,
+    "imdbVotes": 117018,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370635/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -49222,7 +49392,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 110038,
+    "imdbVotes": 110041,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370659/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -49475,7 +49645,7 @@
       "Romance"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 110866,
+    "imdbVotes": 110519,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370702/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -49729,7 +49899,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 125085,
+    "imdbVotes": 123933,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370790/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -50054,7 +50224,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112566,
+    "imdbVotes": 111809,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370588/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -50309,7 +50479,7 @@
       "Romance"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 105783,
+    "imdbVotes": 106467,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370675/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -50562,7 +50732,7 @@
       "Romance"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 107069,
+    "imdbVotes": 107108,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370610/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -50816,7 +50986,7 @@
       "Romance"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117088,
+    "imdbVotes": 116997,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370680/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -51071,7 +51241,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 111741,
+    "imdbVotes": 111897,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370749/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -51549,7 +51719,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112794,
+    "imdbVotes": 111798,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370746/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -51749,7 +51919,7 @@
       "Thriller"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 111986,
+    "imdbVotes": 112341,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370860/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -51865,7 +52035,7 @@
       "Romance"
     ],
     "imdbRating": 6.6,
-    "imdbVotes": 101778,
+    "imdbVotes": 102012,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370715/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -52007,7 +52177,7 @@
       "Romance"
     ],
     "imdbRating": 6.8,
-    "imdbVotes": 105068,
+    "imdbVotes": 105565,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370725/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -52263,7 +52433,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117734,
+    "imdbVotes": 116507,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370854/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -52447,7 +52617,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115906,
+    "imdbVotes": 115289,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370908/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -52645,7 +52815,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118019,
+    "imdbVotes": 119049,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370710/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -52898,7 +53068,7 @@
       "Romance"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 111329,
+    "imdbVotes": 111118,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370808/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -53153,7 +53323,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 113194,
+    "imdbVotes": 112233,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370858/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -53407,7 +53577,7 @@
       "Romance"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 111400,
+    "imdbVotes": 110220,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370581/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -53659,7 +53829,7 @@
       "Drama"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122793,
+    "imdbVotes": 123599,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370657/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -53858,7 +54028,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124330,
+    "imdbVotes": 124848,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370684/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -54111,7 +54281,7 @@
       "History"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 129322,
+    "imdbVotes": 129443,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370709/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -54371,7 +54541,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 113740,
+    "imdbVotes": 114005,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370876/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -54571,7 +54741,7 @@
       "Action"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109629,
+    "imdbVotes": 109317,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370755/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -54685,7 +54855,7 @@
       "Mystery"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 125387,
+    "imdbVotes": 123928,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370785/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -55618,7 +55788,7 @@
       "Mystery"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 121748,
+    "imdbVotes": 121353,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370585/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -56344,7 +56514,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109889,
+    "imdbVotes": 109585,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370833/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -56822,7 +56992,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112401,
+    "imdbVotes": 113000,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370906/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -57020,7 +57190,7 @@
       "Mystery"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123302,
+    "imdbVotes": 123774,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370621/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -57329,7 +57499,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109895,
+    "imdbVotes": 109888,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370689/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -57582,7 +57752,7 @@
       "Documentary"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122997,
+    "imdbVotes": 123448,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370671/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -57696,7 +57866,7 @@
       "Mystery"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115415,
+    "imdbVotes": 116253,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370624/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -57893,7 +58063,7 @@
       "Romance"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 106316,
+    "imdbVotes": 106820,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370809/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -58219,7 +58389,7 @@
       "Thriller"
     ],
     "imdbRating": 8.3,
-    "imdbVotes": 127141,
+    "imdbVotes": 127317,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370789/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -58472,7 +58642,7 @@
       "Thriller"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114229,
+    "imdbVotes": 113650,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370664/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -58642,7 +58812,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112537,
+    "imdbVotes": 112110,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370770/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -59126,7 +59296,7 @@
       "Romance"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 125526,
+    "imdbVotes": 126113,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370598/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -59378,7 +59548,7 @@
       "Drama"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115265,
+    "imdbVotes": 115054,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370662/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -59562,7 +59732,7 @@
       "Romance"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 107008,
+    "imdbVotes": 105651,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370888/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -59815,7 +59985,7 @@
       "Comedy"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 129044,
+    "imdbVotes": 129262,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370793/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -60123,7 +60293,7 @@
       "Drama"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123627,
+    "imdbVotes": 123708,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370661/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -60993,7 +61163,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112456,
+    "imdbVotes": 112455,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370752/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -61135,7 +61305,7 @@
       "Comedy"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123325,
+    "imdbVotes": 123740,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370639/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -61333,7 +61503,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109103,
+    "imdbVotes": 109501,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370902/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -61645,7 +61815,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117480,
+    "imdbVotes": 117442,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370594/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -62097,7 +62267,7 @@
       "Mystery"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 97913,
+    "imdbVotes": 97296,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370644/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -62210,7 +62380,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 116162,
+    "imdbVotes": 114781,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370892/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -62463,7 +62633,7 @@
       "Drama"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 110080,
+    "imdbVotes": 110157,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370663/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -62633,7 +62803,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 111742,
+    "imdbVotes": 113181,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370871/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -63182,7 +63352,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118817,
+    "imdbVotes": 118536,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370691/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -63381,7 +63551,7 @@
       "Mystery"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109014,
+    "imdbVotes": 108684,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370683/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -63640,7 +63810,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 114981,
+    "imdbVotes": 115039,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370595/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -63895,7 +64065,7 @@
       "Mystery"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123627,
+    "imdbVotes": 122448,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370626/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -64037,7 +64207,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 114900,
+    "imdbVotes": 115738,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370873/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -64293,7 +64463,7 @@
       "Mystery"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 106500,
+    "imdbVotes": 106167,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370867/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -64437,7 +64607,7 @@
       "Mystery"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114151,
+    "imdbVotes": 113743,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370753/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -64637,7 +64807,7 @@
       "Mystery"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 108225,
+    "imdbVotes": 108073,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370660/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -64891,7 +65061,7 @@
       "Mystery"
     ],
     "imdbRating": 8.5,
-    "imdbVotes": 130426,
+    "imdbVotes": 130680,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370779/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -65204,7 +65374,7 @@
       "War"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124632,
+    "imdbVotes": 123924,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370821/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -65456,7 +65626,7 @@
       "Comedy"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 105740,
+    "imdbVotes": 105837,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370693/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -65655,7 +65825,7 @@
       "Mystery"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114628,
+    "imdbVotes": 113560,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370645/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -65852,7 +66022,7 @@
       "Comedy"
     ],
     "imdbRating": 8.3,
-    "imdbVotes": 127875,
+    "imdbVotes": 128103,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370879/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -65993,7 +66163,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 123975,
+    "imdbVotes": 124408,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370768/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -66247,7 +66417,7 @@
       "History"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 111308,
+    "imdbVotes": 111683,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370896/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -66403,7 +66573,7 @@
       "Musical"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115516,
+    "imdbVotes": 115624,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370878/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -66516,7 +66686,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118380,
+    "imdbVotes": 118560,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370822/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -66693,7 +66863,7 @@
       "Romance"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 106486,
+    "imdbVotes": 105911,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370593/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -66750,7 +66920,7 @@
       "Romance"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112855,
+    "imdbVotes": 111769,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370618/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -66921,7 +67091,7 @@
       "Mystery"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 121427,
+    "imdbVotes": 121256,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370720/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -67268,7 +67438,7 @@
       "Sport"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115734,
+    "imdbVotes": 115548,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370773/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -67745,7 +67915,7 @@
       "Sport"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 126383,
+    "imdbVotes": 126160,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370646/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -68002,7 +68172,7 @@
       "Romance"
     ],
     "imdbRating": 6.6,
-    "imdbVotes": 102451,
+    "imdbVotes": 101520,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370818/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -68258,7 +68428,7 @@
       "Romance"
     ],
     "imdbRating": 8.1,
-    "imdbVotes": 124820,
+    "imdbVotes": 124152,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370796/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -68512,7 +68682,7 @@
       "Mystery"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120472,
+    "imdbVotes": 120795,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370771/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -68710,7 +68880,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 110017,
+    "imdbVotes": 109164,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370786/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -68910,7 +69080,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 117892,
+    "imdbVotes": 117884,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370713/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -69501,7 +69671,7 @@
       "Romance"
     ],
     "imdbRating": 6.2,
-    "imdbVotes": 95061,
+    "imdbVotes": 96230,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370597/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -69701,7 +69871,7 @@
       "History"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 119092,
+    "imdbVotes": 119004,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370852/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -70183,7 +70353,7 @@
       "Mystery"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 121946,
+    "imdbVotes": 121040,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370706/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -70622,7 +70792,7 @@
       "Horror"
     ],
     "imdbRating": 5.1,
-    "imdbVotes": 78412,
+    "imdbVotes": 78984,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370653/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -70767,7 +70937,7 @@
       "Action"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 129195,
+    "imdbVotes": 129935,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370807/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -70940,7 +71110,7 @@
       "War"
     ],
     "imdbRating": 6.8,
-    "imdbVotes": 104883,
+    "imdbVotes": 104362,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370667/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -71096,7 +71266,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120282,
+    "imdbVotes": 119529,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370827/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -71351,7 +71521,7 @@
       "Mystery"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123111,
+    "imdbVotes": 123141,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370617/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -71549,7 +71719,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120136,
+    "imdbVotes": 120749,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370679/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -71746,7 +71916,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109833,
+    "imdbVotes": 110123,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370788/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -72000,7 +72170,7 @@
       "Romance"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114388,
+    "imdbVotes": 113814,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370763/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -72253,7 +72423,7 @@
       "Romance"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116530,
+    "imdbVotes": 117647,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370614/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -72506,7 +72676,7 @@
       "Comedy"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 129748,
+    "imdbVotes": 128691,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370681/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -72648,7 +72818,7 @@
       "Romance"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 121088,
+    "imdbVotes": 122056,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370794/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -72902,7 +73072,7 @@
       "Mystery"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 107363,
+    "imdbVotes": 107531,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370642/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -73044,7 +73214,7 @@
       "Romance"
     ],
     "imdbRating": 8.6,
-    "imdbVotes": 131622,
+    "imdbVotes": 131936,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370885/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -73300,7 +73470,7 @@
       "Musical"
     ],
     "imdbRating": 8.8,
-    "imdbVotes": 134883,
+    "imdbVotes": 135524,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370815/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -73557,7 +73727,7 @@
       "Mystery"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109509,
+    "imdbVotes": 108674,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370602/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -73811,7 +73981,7 @@
       "Suspense"
     ],
     "imdbRating": 6.7,
-    "imdbVotes": 102908,
+    "imdbVotes": 103622,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370758/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -73896,7 +74066,7 @@
       "History"
     ],
     "imdbRating": 6.8,
-    "imdbVotes": 105433,
+    "imdbVotes": 104418,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370651/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -74149,7 +74319,7 @@
       "Romance"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120253,
+    "imdbVotes": 120369,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370730/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -74458,7 +74628,7 @@
       "Romance"
     ],
     "imdbRating": 6.7,
-    "imdbVotes": 102709,
+    "imdbVotes": 103951,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370810/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -74712,7 +74882,7 @@
       "History"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 128593,
+    "imdbVotes": 129651,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370905/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -74968,7 +75138,7 @@
       "Mystery"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118614,
+    "imdbVotes": 118651,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370792/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -75165,7 +75335,7 @@
       "Crime"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119842,
+    "imdbVotes": 120082,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370698/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -75419,7 +75589,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112328,
+    "imdbVotes": 112943,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370889/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -75618,7 +75788,7 @@
       "Thriller"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115746,
+    "imdbVotes": 114808,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370805/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -75872,7 +76042,7 @@
       "Thriller"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 117945,
+    "imdbVotes": 119286,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370830/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -76015,7 +76185,7 @@
       "Thriller"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 128580,
+    "imdbVotes": 128912,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370729/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -76326,7 +76496,7 @@
       "War"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 110447,
+    "imdbVotes": 111380,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370739/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -76494,7 +76664,7 @@
       "Documentary"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 129548,
+    "imdbVotes": 128548,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370781/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -76975,7 +77145,7 @@
       "Drama"
     ],
     "imdbRating": 8.5,
-    "imdbVotes": 131381,
+    "imdbVotes": 131014,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370643/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -77172,7 +77342,7 @@
       "Action"
     ],
     "imdbRating": 8.4,
-    "imdbVotes": 128632,
+    "imdbVotes": 129565,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370839/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -77430,7 +77600,7 @@
       "Romance"
     ],
     "imdbRating": 6.9,
-    "imdbVotes": 106134,
+    "imdbVotes": 107047,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370623/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -77630,7 +77800,7 @@
       "Romance"
     ],
     "imdbRating": 8.3,
-    "imdbVotes": 127978,
+    "imdbVotes": 127756,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370601/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -77886,7 +78056,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112660,
+    "imdbVotes": 112442,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370652/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -78362,7 +78532,7 @@
       "Comedy"
     ],
     "imdbRating": 6.8,
-    "imdbVotes": 104171,
+    "imdbVotes": 105090,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370592/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -78531,7 +78701,7 @@
       "Home and Garden"
     ],
     "imdbRating": 7.0,
-    "imdbVotes": 108407,
+    "imdbVotes": 107688,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370886/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -78896,7 +79066,7 @@
       "Romance"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 125428,
+    "imdbVotes": 126385,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370736/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -79576,7 +79746,7 @@
       "Mystery"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123598,
+    "imdbVotes": 123364,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370835/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -79831,7 +80001,7 @@
       "Romance"
     ],
     "imdbRating": 9.0,
-    "imdbVotes": 137848,
+    "imdbVotes": 138745,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370650/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -80086,7 +80256,7 @@
       "Romance"
     ],
     "imdbRating": 6.4,
-    "imdbVotes": 98597,
+    "imdbVotes": 99113,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370582/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -80339,7 +80509,7 @@
       "Romance"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118449,
+    "imdbVotes": 118308,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370587/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -80592,7 +80762,7 @@
       "Romance"
     ],
     "imdbRating": 7.1,
-    "imdbVotes": 109180,
+    "imdbVotes": 110117,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370772/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -80846,7 +81016,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 112159,
+    "imdbVotes": 113055,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370767/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -81044,7 +81214,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117503,
+    "imdbVotes": 116845,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370898/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -81298,7 +81468,7 @@
       "Mystery"
     ],
     "imdbRating": 7.4,
-    "imdbVotes": 114483,
+    "imdbVotes": 114387,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370820/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -81554,7 +81724,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115048,
+    "imdbVotes": 115402,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370797/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -81851,7 +82021,7 @@
       "Action"
     ],
     "imdbRating": 7.9,
-    "imdbVotes": 122225,
+    "imdbVotes": 120953,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370743/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -81993,7 +82163,7 @@
       "Comedy"
     ],
     "imdbRating": 7.7,
-    "imdbVotes": 118862,
+    "imdbVotes": 119295,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370850/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -82363,7 +82533,7 @@
       "Podcast"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115273,
+    "imdbVotes": 115335,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370741/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -82561,7 +82731,7 @@
       "Romance"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 126818,
+    "imdbVotes": 126324,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370690/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -82803,7 +82973,7 @@
       "Mystery"
     ],
     "imdbRating": 7.3,
-    "imdbVotes": 111960,
+    "imdbVotes": 112387,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370841/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -83057,7 +83227,7 @@
       "Romance"
     ],
     "imdbRating": 7.5,
-    "imdbVotes": 115640,
+    "imdbVotes": 115490,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370613/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -83535,7 +83705,7 @@
       "History"
     ],
     "imdbRating": 8.3,
-    "imdbVotes": 128128,
+    "imdbVotes": 127117,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370677/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -83733,7 +83903,7 @@
       "Game Show"
     ],
     "imdbRating": 4.6,
-    "imdbVotes": 71640,
+    "imdbVotes": 71710,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/370666/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
