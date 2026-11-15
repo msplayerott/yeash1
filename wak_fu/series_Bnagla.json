@@ -8,7 +8,7 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 153481,
+    "imdbVotes": 154277,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -400,7 +400,7 @@
       "Documentary"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82659,
+    "imdbVotes": 81240,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470586/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -442,7 +442,7 @@
       "Comedy"
     ],
     "imdbRating": 5.5,
-    "imdbVotes": 84980,
+    "imdbVotes": 85325,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -551,6 +551,119 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Horror",
+      "Thriller"
+    ],
+    "imdbRating": 8.0,
+    "imdbVotes": 122740,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/474970/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2024",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/474977/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "24m",
+            "episode_title": "E1 ∙ Mritodeho Haantchey",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/474977/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/474977/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/474974/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E2 ∙ Ektu Rokto De Maa",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/474974/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/474974/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/474972/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "19m",
+            "episode_title": "E3 ∙ Bhrom",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/474972/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/474972/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/474975/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "24m",
+            "episode_title": "E4 ∙ Chinmoyee",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/474975/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/474975/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/474976/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "29m",
+            "episode_title": "E5 ∙ Noibeddyo",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/474976/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/474976/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/474973/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "23m",
+            "episode_title": "E6 ∙ Asun Gurudeb",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/474973/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/474973/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 2"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Bhaduri Moshai, the renowned occultist, is drawn into a haunting mystery when an Aghori tantric surfaces around the time of the blood moon, with sinister intentions which begin to harm people he holds dear.",
+    "title": "Nikosh Chhaya (2024)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Drama"
     ],
     "imdbRating": 0.0,
@@ -596,7 +709,7 @@
       "Drama"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 81987,
+    "imdbVotes": 82128,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -752,7 +865,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117493,
+    "imdbVotes": 117167,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
