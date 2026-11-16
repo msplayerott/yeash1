@@ -8,7 +8,7 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 153663,
+    "imdbVotes": 153743,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -397,10 +397,431 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Suspense",
+      "Thriller",
+      "Mystery"
+    ],
+    "imdbRating": 7.8,
+    "imdbVotes": 120304,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/476279/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2020",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476285/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "26m",
+            "episode_title": "E1 ∙ Chhinnomostar Obhishap | E1",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476285/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476285/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476282/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "29m",
+            "episode_title": "E2 ∙ Chhinnomostar Obhishap | E2",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476282/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476282/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476283/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "25m",
+            "episode_title": "E3 ∙ Chhinnomostar Obhishap | E3",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476283/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476283/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476286/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "23m",
+            "episode_title": "E4 ∙ Chhinnomostar Obhishap | E4",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476286/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476286/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476284/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "24m",
+            "episode_title": "E5 ∙ Chhinnomostar Obhishap | E5",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476284/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476284/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476281/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "23m",
+            "episode_title": "E6 ∙ Chhinnomostar Obhishap | E6",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476281/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476281/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Chronicles the adventures of Prodosh Chandra Mitra a Bengali private detective along with his sidekick Topshe and friend Lalmohan Ganguly",
+    "title": "Feluda Pherot (2020)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
+      "Comedy",
+      "Suspense",
+      "Thriller",
+      "Mystery"
+    ],
+    "imdbRating": 5.0,
+    "imdbVotes": 76795,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/476292/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2022",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476580/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "24m",
+            "episode_title": "E1 ∙ Dhundhumar Darjeeling",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476580/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476580/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476581/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "25m",
+            "episode_title": "E2 ∙ Birupakkho Brittanto",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476581/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476581/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476582/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "19m",
+            "episode_title": "E3 ∙ Shooting-ey Shihoron",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476582/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476582/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476584/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "27m",
+            "episode_title": "E4 ∙ Taalmaatal Tawdonto",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476584/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476584/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476579/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "19m",
+            "episode_title": "E5 ∙ Himalaye Hotyakando",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476579/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476579/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476583/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "33m",
+            "episode_title": "E6 ∙ Jawmjawmat Jawbonika",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476583/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476583/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      },
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476306/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "26m",
+            "episode_title": "E1 ∙ Ebaar Kando Kashmir-a",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476306/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476306/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476307/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "27m",
+            "episode_title": "E2 ∙ Holiday-te Gondogol",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476307/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476307/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476302/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "27m",
+            "episode_title": "E3 ∙ Planchette-a Kelenkari",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476302/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476302/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476305/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E4 ∙ Pahalgam-a Khunkharapi",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476305/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476305/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476303/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "19m",
+            "episode_title": "E5 ∙ Onushawndhan Jawmjawmat",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476303/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476303/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476304/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "28m",
+            "episode_title": "E6 ∙ Bhuswargo Bhoyonkawr",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476304/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476304/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 2"
+      },
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476299/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "24m",
+            "episode_title": "E1 ∙ Jekhane Bagh-er Bhoy",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476299/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476299/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476294/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "23m",
+            "episode_title": "E2 ∙ Shikari Singha Roy",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476294/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476294/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476298/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "18m",
+            "episode_title": "E3 ∙ Shanketer Sondhane",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476298/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476298/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476300/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "21m",
+            "episode_title": "E4 ∙ Kalbunite Kelenkari",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476300/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476300/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476295/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "25m",
+            "episode_title": "E5 ∙ Hotyar Hatiyar",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476295/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476295/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476296/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "27m",
+            "episode_title": "E6 ∙ Joto Kando Jongole",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476296/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476296/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476297/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "28m",
+            "episode_title": "E7 ∙ Aranye Ashani",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476297/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476297/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 3"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Wherever Feluda goes for a vacation, mystery follows him there. Why should Darjeeling be any different! When Feluda lands in Darjeeling with Topshe and Lalmohan Babu, a murder makes Feluda don the hat of a private investigator on a quest to unmask the killer.",
+    "title": "Feludar Goyendagiri (2022)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Documentary"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82161,
+    "imdbVotes": 82404,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470586/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -442,7 +863,7 @@
       "Comedy"
     ],
     "imdbRating": 5.5,
-    "imdbVotes": 85627,
+    "imdbVotes": 85509,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -551,11 +972,165 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Thriller"
+    ],
+    "imdbRating": 8.2,
+    "imdbVotes": 126327,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/476321/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2022",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476324/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "39m",
+            "episode_title": "E1 ∙ Story Mode",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476324/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476324/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476330/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "38m",
+            "episode_title": "E2 ∙ Checkpoint",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476330/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476330/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476325/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "22m",
+            "episode_title": "E3 ∙ The Glitch",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476325/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476325/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476331/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E4 ∙ Non-player Character",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476331/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476331/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476326/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "26m",
+            "episode_title": "E5 ∙ Multiplayer Mode",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476326/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476326/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476329/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "26m",
+            "episode_title": "E6 ∙ RPG",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476329/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476329/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476328/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "29m",
+            "episode_title": "E7 ∙ Arcade Mode",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476328/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476328/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476323/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E8 ∙ Boss Level",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476323/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476323/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476327/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "38m",
+            "episode_title": "E9 ∙ Walkthrough",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476327/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476327/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "A homicide detective who is scared of blood? Discover many other quirks of Detective Kaiser Chowdhury as he investigates a double murder which turns out to be a lot more.",
+    "title": "Kaiser (2022)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Horror",
       "Thriller"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123514,
+    "imdbVotes": 122617,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/474970/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -706,10 +1281,179 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Thriller",
+      "Mystery"
+    ],
+    "imdbRating": 2.0,
+    "imdbVotes": 31894,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/476308/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2023",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476317/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "31m",
+            "episode_title": "E1 ∙ Catch-22",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476317/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476317/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476314/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "26m",
+            "episode_title": "E2 ∙ One in a Million Chance",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476314/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476314/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476316/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E3 ∙ Secret Intestine",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476316/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476316/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476318/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "29m",
+            "episode_title": "E4 ∙ Nishikanto's Nightmare",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476318/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476318/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476319/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "38m",
+            "episode_title": "E5 ∙ Sick Monster",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476319/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476319/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476310/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "30m",
+            "episode_title": "E6 ∙ Planchette",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476310/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476310/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476313/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "30m",
+            "episode_title": "E7 ∙ Altered Truth",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476313/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476313/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476311/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "22m",
+            "episode_title": "E8 ∙ The Chase Begins",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476311/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476311/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476315/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E9 ∙ The Trap",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476315/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476315/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476312/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "38m",
+            "episode_title": "E10 ∙ Uproar in Gangtok",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476312/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476312/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Feluda and Topshe are to solve a case in Gangtok assigned by Mr. Sasadhar Bose. They are to look into the accidental death of his business partner Selvankar. What role does the Yamantaka idol play?",
+    "title": "Shabash Feluda (2023)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Drama"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 81733,
+    "imdbVotes": 82160,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -865,7 +1609,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116824,
+    "imdbVotes": 116868,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -898,6 +1642,148 @@
     "status": "on",
     "storyline": "Five members of a betting syndicate win the lottery. Each series follows a different syndicate. In the first series, it is set in a Leeds supermarket, in the second, a public hospital in Bradford, and the third, a crumbly stately home near Scarborough.",
     "title": "The Syndicate (2012)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Mystery"
+    ],
+    "imdbRating": 6.3,
+    "imdbVotes": 96885,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/476795/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2020",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476799/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "24m",
+            "episode_title": "E1 ∙ Rashatal",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476799/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476799/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476802/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "23m",
+            "episode_title": "E2 ∙ Radbadal",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476802/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476802/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476803/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "23m",
+            "episode_title": "E3 ∙ Ranakhetra",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476803/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476803/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476800/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "22m",
+            "episode_title": "E4 ∙ Gandham",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476800/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476800/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476804/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "28m",
+            "episode_title": "E5 ∙ Barafkal",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476804/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476804/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476797/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E6 ∙ Barkhelap",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476797/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476797/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476801/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "22m",
+            "episode_title": "E7 ∙ Prayeshchitto",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476801/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476801/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/476798/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "27m",
+            "episode_title": "E8 ∙ Pulsirat",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/476798/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/476798/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Freezer van driver Taqdeer spirals into a dark game of destiny after he finds the dead body of an unclaimed woman in his truck.",
+    "title": "Taqdeer (2020)",
     "triler": ""
   }
 ]
