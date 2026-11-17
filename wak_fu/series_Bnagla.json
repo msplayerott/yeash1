@@ -8,7 +8,7 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 153666,
+    "imdbVotes": 153985,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -402,7 +402,7 @@
       "Mystery"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119419,
+    "imdbVotes": 119327,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476279/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -517,7 +517,7 @@
       "Mystery"
     ],
     "imdbRating": 5.0,
-    "imdbVotes": 77482,
+    "imdbVotes": 76864,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476292/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -821,7 +821,7 @@
       "Documentary"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82266,
+    "imdbVotes": 81455,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470586/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -863,7 +863,7 @@
       "Comedy"
     ],
     "imdbRating": 5.5,
-    "imdbVotes": 84786,
+    "imdbVotes": 85401,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -975,7 +975,7 @@
       "Thriller"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 125672,
+    "imdbVotes": 126576,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476321/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1126,11 +1126,137 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Mystery"
+    ],
+    "imdbRating": 7.2,
+    "imdbVotes": 110535,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/477175/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2022",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477177/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "23m",
+            "episode_title": "E1 ∙ Resurrection",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477177/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477177/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477183/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "21m",
+            "episode_title": "E2 ∙ Black Sheep",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477183/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477183/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477178/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "27m",
+            "episode_title": "E3 ∙ Life and Death",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477178/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477178/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477180/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "31m",
+            "episode_title": "E4 ∙ History and Mystery",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477180/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477180/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477182/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "28m",
+            "episode_title": "E5 ∙ Light and Shadow",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477182/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477182/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477179/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "25m",
+            "episode_title": "E6 ∙ Spirit and Ghosts",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477179/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477179/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477181/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "33m",
+            "episode_title": "E7 ∙ Lost Sheep",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477181/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477181/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "When a prisoner appears in Akashnagar Central Jail's Cell No.145 which was shut for 50 years, panic ensues amongst everyone. Who is this mystery man and what secrets does he hold inside him?",
+    "title": "Karagar (2022)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Horror",
       "Thriller"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122689,
+    "imdbVotes": 123809,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/474970/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1285,7 +1411,7 @@
       "Mystery"
     ],
     "imdbRating": 2.0,
-    "imdbVotes": 31147,
+    "imdbVotes": 32349,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476308/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1453,7 +1579,7 @@
       "Drama"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82380,
+    "imdbVotes": 82076,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1609,7 +1735,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117073,
+    "imdbVotes": 117115,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1653,7 +1779,7 @@
       "Mystery"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 97675,
+    "imdbVotes": 97711,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476795/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
