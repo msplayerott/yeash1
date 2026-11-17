@@ -8,7 +8,7 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 153985,
+    "imdbVotes": 153411,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -402,7 +402,7 @@
       "Mystery"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 119327,
+    "imdbVotes": 120670,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476279/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -517,7 +517,7 @@
       "Mystery"
     ],
     "imdbRating": 5.0,
-    "imdbVotes": 76864,
+    "imdbVotes": 77519,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476292/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -821,7 +821,7 @@
       "Documentary"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 81455,
+    "imdbVotes": 81907,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470586/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -863,7 +863,7 @@
       "Comedy"
     ],
     "imdbRating": 5.5,
-    "imdbVotes": 85401,
+    "imdbVotes": 84648,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -975,7 +975,7 @@
       "Thriller"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 126576,
+    "imdbVotes": 125574,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476321/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1129,7 +1129,7 @@
       "Mystery"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 110535,
+    "imdbVotes": 111242,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477175/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1256,7 +1256,7 @@
       "Thriller"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 123809,
+    "imdbVotes": 122620,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/474970/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1407,11 +1407,125 @@
     "category": "Bangla",
     "director": "N/A",
     "genre": [
+      "Mini-Series",
+      "Thriller",
+      "Mystery"
+    ],
+    "imdbRating": 6.0,
+    "imdbVotes": 91983,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/477251/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "premium": false,
+    "quality": "HD",
+    "releaseDate": "2024",
+    "resolution": "1080p",
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477254/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "30m",
+            "episode_title": "E1 ∙ Divine",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477254/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477254/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477257/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "21m",
+            "episode_title": "E2 ∙ Master",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477257/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477257/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477256/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "26m",
+            "episode_title": "E3 ∙ Wish",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477256/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477256/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477253/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "24m",
+            "episode_title": "E4 ∙ Love",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477253/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477253/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477255/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "29m",
+            "episode_title": "E5 ∙ Vessel",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477255/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477255/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477258/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "36m",
+            "episode_title": "E6 ∙ Truth",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477258/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477258/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      }
+    ],
+    "sliderStatus": "off",
+    "sliderUrl": "",
+    "status": "on",
+    "storyline": "Blind ex-CIB officer Rumi, haunted by prophetic nightmares, must solve a murder using his new senses.",
+    "title": "Rumi (2024)",
+    "triler": ""
+  },
+  {
+    "category": "Bangla",
+    "director": "N/A",
+    "genre": [
       "Thriller",
       "Mystery"
     ],
     "imdbRating": 2.0,
-    "imdbVotes": 32349,
+    "imdbVotes": 31248,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476308/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1579,7 +1693,7 @@
       "Drama"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82076,
+    "imdbVotes": 82117,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1735,7 +1849,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 117115,
+    "imdbVotes": 117007,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1779,7 +1893,7 @@
       "Mystery"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 97711,
+    "imdbVotes": 96656,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476795/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
