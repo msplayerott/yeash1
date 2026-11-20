@@ -8,7 +8,7 @@
       "Comedy"
     ],
     "imdbRating": 10.0,
-    "imdbVotes": 153148,
+    "imdbVotes": 153667,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/276568/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -402,7 +402,7 @@
       "Mystery"
     ],
     "imdbRating": 7.8,
-    "imdbVotes": 120779,
+    "imdbVotes": 120681,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476279/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -517,7 +517,7 @@
       "Mystery"
     ],
     "imdbRating": 5.0,
-    "imdbVotes": 77633,
+    "imdbVotes": 77207,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476292/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -821,7 +821,7 @@
       "Documentary"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82447,
+    "imdbVotes": 81571,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470586/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -863,7 +863,7 @@
       "Comedy"
     ],
     "imdbRating": 5.5,
-    "imdbVotes": 84921,
+    "imdbVotes": 84673,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467488/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -975,7 +975,7 @@
       "Thriller"
     ],
     "imdbRating": 8.2,
-    "imdbVotes": 126795,
+    "imdbVotes": 125608,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476321/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1129,7 +1129,7 @@
       "Mystery"
     ],
     "imdbRating": 7.2,
-    "imdbVotes": 110962,
+    "imdbVotes": 110772,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477175/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1256,7 +1256,7 @@
       "Thriller"
     ],
     "imdbRating": 8.0,
-    "imdbVotes": 122519,
+    "imdbVotes": 122760,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/474970/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1264,6 +1264,95 @@
     "releaseDate": "2024",
     "resolution": "1080p",
     "seasons": [
+      {
+        "episodes": [
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477782/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E1 ∙ Abahon",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477782/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477782/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477781/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "21m",
+            "episode_title": "E2 ∙ Smriti Bismriti",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477781/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477781/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477780/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "18m",
+            "episode_title": "E3 ∙ Obhishaap",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477780/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477780/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477778/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E4 ∙ Adot Kotha",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477778/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477778/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477777/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E5 ∙ Shomuho Bipod",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477777/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477777/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          },
+          {
+            "downStatus": "off",
+            "downUrl": "https://play.roarzone.net/emby/Videos/477779/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "duration": "20m",
+            "episode_title": "E6 ∙ Shommukh Shomor",
+            "headers": {
+              "Referer": "https://play.roarzone.info/",
+              "Origin": "",
+              "User-Agent": ""
+            },
+            "posterUrl": "https://play.roarzone.net/emby/Items/477779/Images/Primary?api_key=731adf358dc1482ca23610b3511a83ad",
+            "streamUrl": "https://play.roarzone.net/emby/Videos/477779/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+            "view": 0
+          }
+        ],
+        "season_title": "season 1"
+      },
       {
         "episodes": [
           {
@@ -1412,7 +1501,7 @@
       "Mystery"
     ],
     "imdbRating": 6.0,
-    "imdbVotes": 92700,
+    "imdbVotes": 92371,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477251/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1525,7 +1614,7 @@
       "Mystery"
     ],
     "imdbRating": 2.0,
-    "imdbVotes": 32283,
+    "imdbVotes": 31920,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476308/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1693,7 +1782,7 @@
       "Drama"
     ],
     "imdbRating": 5.3,
-    "imdbVotes": 82718,
+    "imdbVotes": 81473,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466625/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1849,7 +1938,7 @@
       "Mystery"
     ],
     "imdbRating": 7.6,
-    "imdbVotes": 116786,
+    "imdbVotes": 117642,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/461907/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
@@ -1893,7 +1982,7 @@
       "Mystery"
     ],
     "imdbRating": 6.3,
-    "imdbVotes": 97785,
+    "imdbVotes": 97571,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476795/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "premium": false,
